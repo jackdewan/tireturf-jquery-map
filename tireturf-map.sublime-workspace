@@ -19,14 +19,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 1487,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -84,6 +76,10 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/maps/jQuery-Store-Locator-Plugin/distributors.xml",
+		"/Applications/MAMP/htdocs/maps/jQuery-Store-Locator-Plugin/tireturf-distributors.html",
+		"/Applications/MAMP/htdocs/maps/jQuery-Store-Locator-Plugin/js/jquery.storelocator.js",
+		"/Applications/MAMP/htdocs/maps/jQuery-Store-Locator-Plugin/index.html",
 		"/Applications/MAMP/htdocs/degue/www.tireturf.com/htdocs/distributors.html",
 		"/Applications/MAMP/htdocs/maps/jQuery-Store-Locator-Plugin/readme.md",
 		"/Applications/MAMP/htdocs/apm/htdocs/assets/css/headers/header3.css",
@@ -123,6 +119,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".xml",
+			"locations.xml",
 			"load",
 			"border-radius",
 			"height",
@@ -147,40 +145,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 1487,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
